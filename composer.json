@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": ">=7.1.0",
+        "gabrielrcouto/php-gui": "dev-master",
+        "nxp/math-executor": "^0.6.0"
+    },
+    "autoload": {
+        "files": [
+        ]
+    }
+}
